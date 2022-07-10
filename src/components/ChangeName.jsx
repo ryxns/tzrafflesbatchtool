@@ -11,10 +11,10 @@ export default function ChangeQuantity(props) {
     <font 
       color="white"
     >
-    Sneak Peek Raffle Tickets
+    TzRaffle #2 Tickets
     <br />
     <img
-      src="https://s3.us-west-2.amazonaws.com/henftz.xyz/nftb/rafflebox.PNG"
+      src="https://s3.us-west-2.amazonaws.com/henftz.xyz/tzraffles/tzraffle.PNG"
       width="300"
     />
     </font>
