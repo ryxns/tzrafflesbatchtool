@@ -32,13 +32,13 @@ export default function Navbar() {
     <nav className="bg-gray-800 h-14 flex items-center px-10 justify-between">
       <div className="flex-1 space-x-4">
         <a href="#!" className="font-bold text-white pr-6">
-          NFTBakery.tez
+          TzRaffles.tez
         </a>
         <a
           href="#!"
           className="bg-black text-gray-200 px-4 py-2 text-sm font-semibold rounded-sm"
         >
-          Sneak Peek Raffle
+          TzRaffle #2
         </a>
       </div>
       <div>
