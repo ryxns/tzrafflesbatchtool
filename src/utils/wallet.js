@@ -53,7 +53,7 @@ const checkIfWalletConnected = async (wallet) => {
 };
 
 export const changeQuantity = async (quantity) => {
-   const amount = 0.42;
+   const amount = 0.01;
   // const wallet = new BeaconWallet(options);
   const response = await checkIfWalletConnected(wallet);
 
@@ -67,7 +67,7 @@ export const changeQuantity = async (quantity) => {
     for (let i = 0; i < quantity; i++) {
       microTransactions.push({
         kind: OpKind.TRANSACTION,
-        ...contract.methods.fulfill_ask(1811279).toTransferParams(),
+        ...contract.methods.fulfill_ask(1872280).toTransferParams(),
         amount: amount,
         mutez: false,
       });
