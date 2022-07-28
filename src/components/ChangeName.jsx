@@ -51,11 +51,13 @@ export default function ChangeQuantity(props) {
     <div>
     <br />
     <br />
+    <center>
     <font 
       color="white"
     > 
     made with &lt;3 by ryxns    
     </font>
+    </center>
     </div>
   </div>
   );
