@@ -36,7 +36,7 @@ export default function Navbar() {
         </a>
         <a
           href="#!"
-          className="bg-black text-gray-200 px-4 py-2 text-sm font-semibold rounded-sm"
+          className="bg-white text-blue-200 px-4 py-2 text-sm font-semibold rounded-sm"
         >
           TzRaffle #2
         </a>
