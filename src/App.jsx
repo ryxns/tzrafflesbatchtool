@@ -5,11 +5,11 @@ const App = () => {
   return (
     <div>
       <div>
-        <div class="absolute top-0 left-0">&nbsp;
-          <img alt="" src='https://s3.us-west-2.amazonaws.com/henftz.xyz/tzraffles/banner.jpg' />
+        <div class="absolute top-0 left-0"><img alt="" src='https://s3.us-west-2.amazonaws.com/henftz.xyz/tzraffles/banner.jpg' />
         </div>
       
         <div class="absolute top-10 right-10">
+          <Navbar />
         </div>
       </div>  
       <div className="container pt-10 mx-auto">
