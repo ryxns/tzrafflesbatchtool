@@ -15,7 +15,7 @@ const App = () => {
           <ChangeQuantity />
         </div>
         <div class="absolute inset-x-0 bottom-0">
-          made with <3 by ryxns
+          made with /<3 by ryxns
         </div>
       </div> 
     </div>
