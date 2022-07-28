@@ -10,7 +10,6 @@ const App = () => {
         </div>
       
         <div class="absolute top-10 right-10">
-          <Navbar />
         </div>
       </div>  
       <div className="container pt-10 mx-auto">
