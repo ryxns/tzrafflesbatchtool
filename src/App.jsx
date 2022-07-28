@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div>
     <div>
-      <div style="z-index: 1; position: absolute; top: 0; left: 0; background-image:url(https://s3.us-west-2.amazonaws.com/henftz.xyz/tzraffles/banner.jpg);background-position:100px 200px; height:250px; width:500px;">&nbsp;</div>
+      <div style="z-index: 1; position: absolute; top: 0; left: 0; background-image:url(https://s3.us-west-2.amazonaws.com/henftz.xyz/tzraffles/banner.jpg);background-position:100px 200px; height:250px; width:500px;">&nbsp;
       </div>
       
       <div style="z-index: 1; position: absolute; top: 10; right: 10;">
