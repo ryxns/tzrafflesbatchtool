@@ -29,14 +29,14 @@ export default function Navbar() {
   }, []);
 
   return (
-    <nav className="bg-[#581c87] h-14 flex items-center px-10 justify-between">
+    <nav class="bg-[#581c87] h-14 flex items-center px-10 justify-between">
       <div className="flex-1 space-x-4">
         <a href="#!" className="font-bold text-white pr-6">
           TzRaffles.fun!
         </a>
         <a
           href="#!"
-          className="bg-white text-blue-200 px-4 py-2 text-sm font-semibold rounded-sm"
+          className="bg-white text-blue-500 px-4 py-2 text-sm font-semibold rounded-sm"
         >
           TzRaffle #2
         </a>
