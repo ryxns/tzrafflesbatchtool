@@ -29,19 +29,7 @@ export default function Navbar() {
   }, []);
 
   return (
-    <nav class="bg-purple-900 h-14 flex items-center px-10 justify-between">
-      <div className="flex-1 space-x-4">
-        <a href="#!" className="font-bold text-white pr-6">
-          TzRaffles.fun!
-        </a>
-        <a
-          href="#!"
-          className="bg-white text-blue-500 px-4 py-2 text-sm font-semibold rounded-sm"
-        >
-          TzRaffle #2
-        </a>
-      </div>
-      <div>
+     <div>
         <button
           onClick={wallet ? handleDisconnectWallet : handleConnectWallet}
           className="bg-pink-500 px-6 py-2 rounded-sm text-xs font-semibold text-white cursor-pointer"
@@ -54,6 +42,5 @@ export default function Navbar() {
             : "Connect"}
         </button>
       </div>
-    </nav>
   );
 }
