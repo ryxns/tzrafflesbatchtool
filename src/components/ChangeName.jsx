@@ -37,7 +37,7 @@ export default function ChangeQuantity(props) {
           setQuantity(e.target.value);
         }}
         value={quantity}
-      />
+      />&nbsp;&nbsp;&nbsp;
       <button
         onClick={() => {
           changeQuantity(quantity);
