@@ -48,15 +48,6 @@ export default function ChangeQuantity(props) {
       </button>
     </center>
     </div>
-    <div>
-    <center>
-    <font 
-      color="white"
-    > 
-    made with &lt;3 by ryxns    
-    </font>
-    </center>
-    </div>
   </div>
   );
 }
