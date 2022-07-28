@@ -11,8 +11,18 @@ const App = () => {
         <div class="absolute top-10 right-10">
           <Navbar />
         </div>
-        <div class="absolute inset-x-0 bottom-0">
+        <div class="absolute inset-x-0 bottom-10">
           <ChangeQuantity />
+        </div>
+        <div class="absolute right-0 bottom-0">
+          <center>
+          <font 
+            color="white"
+          > 
+          <br/>
+          made with &lt;3 ❤ by ryxns    
+          </font>
+          </center>
         </div>
       </div> 
     </div>
