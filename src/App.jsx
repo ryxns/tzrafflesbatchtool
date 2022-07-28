@@ -11,7 +11,7 @@ const App = () => {
         <div class="absolute top-10 right-10">
           <Navbar />
         </div>
-        <div class="absolute inset-x-0 bottom-15">
+        <div class="absolute inset-x-0 bottom-16">
           <ChangeQuantity />
         </div>
       </div> 
