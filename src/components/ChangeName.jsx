@@ -49,8 +49,6 @@ export default function ChangeQuantity(props) {
     </center>
     </div>
     <div>
-    <br />
-    <br />
     <center>
     <font 
       color="white"
