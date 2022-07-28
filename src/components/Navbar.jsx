@@ -29,7 +29,7 @@ export default function Navbar() {
   }, []);
 
   return (
-    <nav className="bg-Fuchsia-500 h-14 flex items-center px-10 justify-between">
+    <nav className="bg-[#581c87] h-14 flex items-center px-10 justify-between">
       <div className="flex-1 space-x-4">
         <a href="#!" className="font-bold text-white pr-6">
           TzRaffles.fun!
