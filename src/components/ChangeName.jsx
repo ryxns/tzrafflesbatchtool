@@ -20,8 +20,10 @@ export default function ChangeQuantity(props) {
     <br />
     2 xtz each
     <br />
-    
-    
+    <img
+      src="https://s3.us-west-2.amazonaws.com/henftz.xyz/tzraffles/ticket2.png"
+      width="300"
+    />    
     </font>
     </center>
     </div>
