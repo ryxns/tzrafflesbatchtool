@@ -17,6 +17,7 @@ export default function ChangeQuantity(props) {
     <font 
       color="white"
     >
+    <br />
     2 xtz each
     <br />
     
