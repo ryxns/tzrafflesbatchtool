@@ -3,7 +3,7 @@ import ChangeQuantity from "./components/ChangeName";
 
 const App = () => {
   return (
-    <div style="background-image: url('https://s3.us-west-2.amazonaws.com/henftz.xyz/tzraffles/banner.jpg')">
+    <div style="min-h-screen bg-scroll bg-[url('https://s3.us-west-2.amazonaws.com/henftz.xyz/tzraffles/banner.jpg')] ">
       <Navbar />
       <div className="container pt-10 mx-auto">
         <div className="flex justify-center">
