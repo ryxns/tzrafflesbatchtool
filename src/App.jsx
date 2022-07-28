@@ -20,7 +20,7 @@ const App = () => {
             color="white"
           > 
           <br/>
-          made with &lt;3 ❤ by ryxns    
+          made with ❤ by ryxns    
           </font>
           </center>
         </div>
