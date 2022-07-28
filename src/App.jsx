@@ -3,9 +3,9 @@ import ChangeQuantity from "./components/ChangeName";
 
 const App = () => {
   return (
-    <div>
-      <div>
-        <div class="bg-[#131345] absolute top-0 left-0">
+    <div class="bg-blue min-h-screen">
+      <div class="bg-green min-h-screen">
+        <div class="bg-red absolute top-0 left-0 min-h-screen">
           <img alt="" src='https://s3.us-west-2.amazonaws.com/henftz.xyz/tzraffles/banner.jpg' />
           <br />
           <ChangeQuantity />
