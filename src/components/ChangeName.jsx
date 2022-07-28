@@ -10,9 +10,16 @@ export default function ChangeQuantity(props) {
     <center>
     <font 
       color="white"
+      size="6"
     >
     TzRaffle #2 Tickets
+    </font>
+    <font 
+      color="white"
+    >
+    2 xtz each
     <br />
+    
     <img
       src="https://s3.us-west-2.amazonaws.com/henftz.xyz/tzraffles/tzraffle.PNG"
       width="300"
@@ -20,7 +27,7 @@ export default function ChangeQuantity(props) {
     </font>
     </center>
     </div>
-    <div className="flex">  
+    <div>  
     <center>
     <input
         type="text"
@@ -35,7 +42,7 @@ export default function ChangeQuantity(props) {
         onClick={() => {
           changeQuantity(quantity);
         }}
-        className="bg-red-500 px-6 py-3 rounded-sm text-xs font-semibold uppercase text-white cursor-pointer"
+        className="bg-pink-500 px-6 py-3 rounded-sm text-xs font-semibold uppercase text-white cursor-pointer"
       >
         Batch Buy
       </button>
